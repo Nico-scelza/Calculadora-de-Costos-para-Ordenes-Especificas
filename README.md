@@ -1,0 +1,1 @@
+Este proyecto fue desarrollado como resultado de mi interés en la materia Elementos de Costos de la Universidad Nacional de La Matanza. El objetivo de esta calculadora es facilitar el cálculo de costos para órdenes específicas.
